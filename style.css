@@ -47,7 +47,7 @@ body {
 
 .page {
   background: var(--page-bg);
-  max-width: 880px;
+  max-width: 1500px;
   margin: 32px auto;
   padding: 48px 56px;
   border-radius: 14px;
